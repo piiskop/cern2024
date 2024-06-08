@@ -4,7 +4,7 @@ site: bookdown::bookdown_site
 colorlinks: TRUE
 author: "peacecop kalmer:"
 description: "Loodusteaduste ja matemaatika elulised õpilood"
-lang: en
+lang: et
 include-before:
     - \input{title-page.tex}
 title: "`r if (knitr::is_latex_output()) { '' } else { 'Loodusteaduste ja matemaatika<br/>elulised õpilood' }`"

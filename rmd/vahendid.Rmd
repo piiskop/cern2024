@@ -1,0 +1,106 @@
+# Vahendid
+
+Kaasa võtta:
+
+1. Seljakott
+
+2. Sandaalid, et saaks õhuliste jalanõudega lühikesi vahemaid kõndida ja ka vees käia, kus terav. Ostsin Amazonist 22 June 2017 ja maksin \num{69,9} ε (joonis \@ref(fig:resources-uneek) leheküljel `r render_pageref(reference = "fig:resources-uneek")`)[@keen].
+
+```{r label = "resources-uneek", echo=FALSE, fig.cap = "KEEN 1013087 Herren Uneek-m."}
+include_external_graphics("rmd/keen-uneek.jpg")
+
+```
+
+3. Pesukott, et saaks pesu pesta, pesuvett tassida ja hoida ning statiivi ümberkukkumise eest kaitsta. Ostsin Amazonist 20 June 2017
+ ja maksin \num{56,31} ε (joonis \@ref(fig:resources-scrubba) leheküljel `r render_pageref(reference = "fig:resources-scrubba")`)[@scrubba].
+
+```{r label = "resources-scrubba", echo=FALSE, fig.cap = "Scrubba Outdoor Wash Bag for Camping and Travel, Portable and Compact Wash Bag, Probably the Smallest Washing Machine in the World, . [Energy Class A+++]."}
+include_external_graphics("rmd/scubba.jpg")
+
+```
+
+4. Pesuvahend, et saaks nii ihu kui pesu pesta. Ostsin Amazonist 20 June 2017
+ ja maksin \num{13,06} ε (joonis \@ref(fig:resources-summit) leheküljel `r render_pageref(reference = "fig:resources-summit")`)[@sea].
+
+```{r label = "resources-summit", echo=FALSE, fig.cap = "Sea To Summit - Wilderness Wash Citronella 250 ml, Liquid Universal Soap."}
+include_external_graphics("rmd/sea-to-summit.jpg")
+
+```
+
+5. Kaartide, kupüüride ja müntide laegas, et pabervaluuta, mündid, makse- ja muud vajalikud kaardid võimalikult kergesse mugavasse laekasse oleksid kaasa võetud ning et kiibiga kaart oleks kaitstud välise lugemise eest. Ostsin Amazonist 20 June 2017 (joonis \@ref(fig:resources-wallet) leheküljel `r render_pageref(reference = "fig:resources-wallet")`)[@scrubba-wallet].
+
+```{r label = "resources-wallet", echo=FALSE, fig.cap = "Scrubba Schwerelose Brieftasche, Falttür, Super Dünn und leicht – Schweiß und Wasser beständig – ideal für Bewegung und körperliche Aktivität."}
+include_external_graphics("rmd/scrubba-wallet.jpg")
+
+```
+
+6. Võimas lamp, et vajadusel pimedas tegutseda. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 24 February 2020 ja maksin \num{106,67} ε
+ (joonis \@ref(fig:resources-litra) leheküljel `r render_pageref(reference = "fig:resources-litra")`)[@litra].
+
+```{r label = "resources-litra", echo=FALSE, fig.cap = "Litra Torch 2.0, LT2202, Black, LitraTorch 2."}
+include_external_graphics("rmd/litra.jpg")
+
+```
+
+7. Arvuti, et virtuaalseid toiminguid teha. See on kergekaaluline masin. Ostsin Amazonist 28 November 2021
+ ja maksin \num{77,9} ε, pluss saatekulu
+ (joonis \@ref(fig:resources-pi) leheküljel `r render_pageref(reference = "fig:resources-pi")`)[@raspberry].
+
+```{r label = "resources-pi", echo=FALSE, fig.cap = "Raspberry Pi PI400 4GB German Red / White."}
+include_external_graphics("rmd/pi.jpg")
+
+```
+
+8. Müra summutavad kõrvaklapid, et vajadusel virtuaalseid konverentse teha. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 20 November 2022
+ ja maksin \num{223,86} ε
+ (joonis \@ref(fig:resources-sony) leheküljel `r render_pageref(reference = "fig:resources-sony")`)[@sony].
+
+```{r label = "resources-sony", echo=FALSE, fig.cap = "Sony WH-1000XM4 Wireless Bluetooth Noise Cancelling Headphones."}
+include_external_graphics("rmd/sony.jpg")
+
+```
+
+9. Kõrvatropid, et müra korral magada saada. Ostsin Amazonist 2 June 2024
+ ja maksin \num{14,18} ε
+ (joonis \@ref(fig:resources-calmor) leheküljel `r render_pageref(reference = "fig:resources-calmor")`)[@pikdare].
+
+```{r label = "resources-calmor", echo=FALSE, fig.cap = "Pikdare Calmor Sound Absorbing Earplugs - Pack of 12."}
+include_external_graphics("rmd/calmor.jpg")
+
+```
+
+10. Veekindel kaamera, et vees ja üldse matka jäädvustada. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 2 June 2024
+ ja maksin \num{320} ε
+ (joonis \@ref(fig:resources-dji) leheküljel `r render_pageref(reference = "fig:resources-dji")`)[@dji].
+
+```{r label = "resources-dji", echo=FALSE, fig.cap = "DJI Osmo Action 4 Standard Combo - 4K/120fps Waterproof Action Camera with a 1/1.3\" Sensor, Stunning Low Light Shots, 10-Bit and D-Log M Colour Performance, Long Lasting 1770mAh Battery."}
+include_external_graphics("rmd/dji.jpg")
+
+```
+
+11. Pritsevõimekusega pudel sisaldamaks kloordioksiidi lahust, et vajadusel peale piserdada. Ostsin Amazonist 2 June 2024
+ ja maksin viie pudeli eest \num{18,65} ε
+ (joonis \@ref(fig:resources-braunglasflaschen) leheküljel `r render_pageref(reference = "fig:resources-braunglasflaschen")`)[@a5].
+
+```{r label = "resources-braunglasflaschen", echo=FALSE, fig.cap = "5 x 100 ml Brown Glass Bottles with Finger Atomiser, Mini Funnel + Labelling Labels, Spray Bottles with Light Protection, Atomiser Bottles with Pump Sprayer, e.g. for Colloidal Silver or Perfume."}
+include_external_graphics("rmd/braunglasflaschen.jpg")
+
+```
+
+12. Pruunid säilituspudelid pipetiga, et kaasa võtta vesinikkloriidhape, naatriumklorit ja dimetüülsulfoksiid, mida vajadusel raviks kasutada. Ostsin Amazonist 2 June 2024
+ ja maksin nelja pudeli eest \num{7,16} ε
+ (joonis \@ref(fig:resources-brown-storage-bottles) leheküljel `r render_pageref(reference = "fig:resources-brown-storage-bottles")`)[@pipette].
+
+```{r label = "resources-brown-storage-bottles", echo=FALSE, fig.cap = "Pipette Bottle 30 ml, Pack of 4 Brown Glass Bottles, Transparent Essential Oil, Perfume Bottle with Dropper, Refillable Cosmetic Containers, for Essential Oil, Perfume Oils, Fragrances, Liquid. (30."}
+include_external_graphics("rmd/brown-storage-bottles.jpg")
+
+```
+
+13. Ultraviolettlaadija, et akusid laadida looduses. Ostsin Amazonist 2 June 2024
+ ja maksin nelja pudeli eest \num{130,7} ε
+ (joonis \@ref(fig:resources-bresser-solar) leheküljel `r render_pageref(reference = "fig:resources-bresser-solar")`)[@bresser].
+
+```{r label = "resources-bresser-solar", echo=FALSE, fig.cap = "Bresser Solar Charger 60 W with 1 x DC and 3 x USB-A Ports Including USB-A Socket with QC3.0 for Quick Charging, Solar Panel as Charger for Smartphones, Power Stations etc."}
+include_external_graphics("rmd/bresser-solar.jpg")
+
+```
