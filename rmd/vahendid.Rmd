@@ -1,17 +1,31 @@
 # Vahendid
 
-Kaasa võtta:
+## Pakkimiseks
 
-1. Seljakott
+1. Seljakott, et asju tassida. Ostsin Ebay'st 25. Jun 2017, 3:19
+ja maksin \num{359,9} ε.
 
-2. Sandaalid, et saaks õhuliste jalanõudega lühikesi vahemaid kõndida ja ka vees käia, kus terav. Ostsin Amazonist 22 June 2017 ja maksin \num{69,9} ε (joonis \@ref(fig:resources-uneek) leheküljel `r render_pageref(reference = "fig:resources-uneek")`)[@keen].
+## Riietus
+
+1. Sandaalid, et saaks õhuliste jalanõudega lühikesi vahemaid kõndida ja ka vees käia, kus terav. Ostsin Amazonist 22 June 2017 ja maksin \num{69,9} ε (joonis \@ref(fig:resources-uneek) leheküljel `r render_pageref(reference = "fig:resources-uneek")`)[@keen]. Pakin seljakotti.
 
 ```{r label = "resources-uneek", echo=FALSE, fig.cap = "KEEN 1013087 Herren Uneek-m."}
 include_external_graphics("rmd/keen-uneek.jpg")
 
 ```
 
-3. Pesukott, et saaks pesu pesta, pesuvett tassida ja hoida ning statiivi ümberkukkumise eest kaitsta. Ostsin Amazonist 20 June 2017
+2. Kehapealne sääsevõrk, et end vajadusel sääskede eest kaitsta. Ostsin Ebay'st 20. Jun 2017, 4:19
+ ja maksin \num{22,5} ε.
+
+3. Merinovillased pealissokid, et oleks vahetada. Ostsin Ebay'st 25. Jun 2017, 3:19
+ ja maksin viie paari eest \num{21,45} ε.
+
+4. Rätik, et nt vihmast end enne magamaminekut kuivatada või riideid kuivatada. Ostsin Ebay'st 25. Jun 2017, 3:19
+ ja maksin viie paari eest \num{12,9} ε.
+
+## Hügieen
+
+1. Pesukott, et saaks pesu pesta, pesuvett tassida ja hoida ning statiivi ümberkukkumise eest kaitsta. Ostsin Amazonist 20 June 2017
  ja maksin \num{56,31} ε (joonis \@ref(fig:resources-scrubba) leheküljel `r render_pageref(reference = "fig:resources-scrubba")`)[@scrubba].
 
 ```{r label = "resources-scrubba", echo=FALSE, fig.cap = "Scrubba Outdoor Wash Bag for Camping and Travel, Portable and Compact Wash Bag, Probably the Smallest Washing Machine in the World, . [Energy Class A+++]."}
@@ -19,7 +33,7 @@ include_external_graphics("rmd/scubba.jpg")
 
 ```
 
-4. Pesuvahend, et saaks nii ihu kui pesu pesta. Ostsin Amazonist 20 June 2017
+2. Pesuvahend, et saaks nii ihu kui pesu pesta. Ostsin Amazonist 20 June 2017
  ja maksin \num{13,06} ε (joonis \@ref(fig:resources-summit) leheküljel `r render_pageref(reference = "fig:resources-summit")`)[@sea].
 
 ```{r label = "resources-summit", echo=FALSE, fig.cap = "Sea To Summit - Wilderness Wash Citronella 250 ml, Liquid Universal Soap."}
@@ -27,14 +41,31 @@ include_external_graphics("rmd/sea-to-summit.jpg")
 
 ```
 
-5. Kaartide, kupüüride ja müntide laegas, et pabervaluuta, mündid, makse- ja muud vajalikud kaardid võimalikult kergesse mugavasse laekasse oleksid kaasa võetud ning et kiibiga kaart oleks kaitstud välise lugemise eest. Ostsin Amazonist 20 June 2017 (joonis \@ref(fig:resources-wallet) leheküljel `r render_pageref(reference = "fig:resources-wallet")`)[@scrubba-wallet].
+3. Tulekivi, et vajadusel tuld teha. Ostsin Ebay'st 25. Jun 2017, 3:19
+ ja maksin \num{5,95} ε.
+
+4. Tagumiku puhastamise vahend, et tagumikku puhastada. Ostsin Ebay'st 26. Dez 2018, 13:02
+ ja maksin  \num{33,9} ε.
+
+5. Kühvel kakaaugu kaevamiseks ja katuse kinnitamiseks. Ostsin Amazonist 11 Jun 2024 ja maksin \num{32,22} ε (joonis \@ref(fig:resources-guillermo) leheküljel `r render_pageref(reference = "fig:resources-guillermo")`)[@a2024_boglerco].
+
+```{r label = "resources-guillermo", echo=FALSE, fig.cap = "BoglerCo Ultralight Backpack Trowel 13.5g Yellow."}
+include_external_graphics("rmd/guillermo.jpg")
+
+```
+
+## Maksevahendid
+
+1. Kaartide, kupüüride ja müntide laegas, et pabervaluuta, mündid, makse- ja muud vajalikud kaardid võimalikult kergesse mugavasse laekasse oleksid kaasa võetud ning et kiibiga kaart oleks kaitstud välise lugemise eest. Ostsin Amazonist 20 June 2017 ja maksin \num{8,95} ε (joonis \@ref(fig:resources-wallet) leheküljel `r render_pageref(reference = "fig:resources-wallet")`)[@scrubba-wallet].
 
 ```{r label = "resources-wallet", echo=FALSE, fig.cap = "Scrubba Schwerelose Brieftasche, Falttür, Super Dünn und leicht – Schweiß und Wasser beständig – ideal für Bewegung und körperliche Aktivität."}
 include_external_graphics("rmd/scrubba-wallet.jpg")
 
 ```
 
-6. Võimas lamp, et vajadusel pimedas tegutseda. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 24 February 2020 ja maksin \num{106,67} ε
+## Valgustus
+
+1. Võimas lamp, et vajadusel pimedas tegutseda. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 24 February 2020 ja maksin \num{106,67} ε
  (joonis \@ref(fig:resources-litra) leheküljel `r render_pageref(reference = "fig:resources-litra")`)[@litra].
 
 ```{r label = "resources-litra", echo=FALSE, fig.cap = "Litra Torch 2.0, LT2202, Black, LitraTorch 2."}
@@ -42,7 +73,18 @@ include_external_graphics("rmd/litra.jpg")
 
 ```
 
-7. Arvuti, et virtuaalseid toiminguid teha. See on kergekaaluline masin. Ostsin Amazonist 28 November 2021
+2. Valgustavad pulgad, et pimedaid urkaid valgustada, kuhu ei pääse. Ostsin Ebay'st 25. Jun 2017, 3:55
+ ja maksin  £33,99
+ (joonis \@ref(fig:resources-glowtopia) leheküljel `r render_pageref(reference = "fig:resources-glowtopia")`)[@a100x].
+
+```{r label = "resources-glowtopia", echo=FALSE, fig.cap = "100x 4 Zoll normale (10 mm) Glühstäbchen + Schlüsselbänder - Glowtopia für alle Gelegenheiten."}
+include_external_graphics("rmd/glowtopia.jpg")
+
+```
+
+## Side
+
+1. Arvuti, et virtuaalseid toiminguid teha. See on kergekaaluline masin. Ostsin Amazonist 28 November 2021
  ja maksin \num{77,9} ε, pluss saatekulu
  (joonis \@ref(fig:resources-pi) leheküljel `r render_pageref(reference = "fig:resources-pi")`)[@raspberry].
 
@@ -51,7 +93,7 @@ include_external_graphics("rmd/pi.jpg")
 
 ```
 
-8. Müra summutavad kõrvaklapid, et vajadusel virtuaalseid konverentse teha. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 20 November 2022
+2. Müra summutavad kõrvaklapid, et vajadusel virtuaalseid konverentse teha. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 20 November 2022
  ja maksin \num{223,86} ε
  (joonis \@ref(fig:resources-sony) leheküljel `r render_pageref(reference = "fig:resources-sony")`)[@sony].
 
@@ -60,7 +102,15 @@ include_external_graphics("rmd/sony.jpg")
 
 ```
 
-9. Kõrvatropid, et müra korral magada saada. Ostsin Amazonist 2 June 2024
+3. Graafikatahvel, et joonistada. Ostsin Ebay'st 30. Dez 2018, 18:46
+ ja maksin  \num{54} ε[@xppen].
+
+4. Varutelefon juhuks, kui põhitelefoniga mingi jama juhtub, nt varastatakse. Ostsin Ebay'st 5. Jan 2019, 6:50
+ ja maksin  \num{83,8} ε[@lg].
+
+## Ööbimine
+
+1. Kõrvatropid, et müra korral magada saada. Ostsin Amazonist 2 June 2024
  ja maksin \num{14,18} ε
  (joonis \@ref(fig:resources-calmor) leheküljel `r render_pageref(reference = "fig:resources-calmor")`)[@pikdare].
 
@@ -69,7 +119,18 @@ include_external_graphics("rmd/calmor.jpg")
 
 ```
 
-10. Veekindel kaamera, et vees ja üldse matka jäädvustada. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 2 June 2024
+2. Ühenduspaelad, et nt katust paremini kinnitada. Ostsin Ebay'st 20. Jun 2017, 4:19
+ ja maksin kahe paela eest \num{24,15} ε
+ (joonis \@ref(fig:resources-t-straps) leheküljel `r render_pageref(reference = "fig:resources-t-straps")`)[@amazonas].
+
+```{r label = "resources-t-straps", echo=FALSE, fig.cap = "AMAZONAS T-Strap Befestigungsgurten für Hängematten, 220cm - Schwarz, 2 Stück (AZ-3025002)."}
+include_external_graphics("rmd/t-straps.jpg")
+
+```
+
+## Jäädvustamine
+
+1. Veekindel kaamera, et vees ja üldse matka jäädvustada. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 2 June 2024
  ja maksin \num{320} ε
  (joonis \@ref(fig:resources-dji) leheküljel `r render_pageref(reference = "fig:resources-dji")`)[@dji].
 
@@ -78,7 +139,9 @@ include_external_graphics("rmd/dji.jpg")
 
 ```
 
-11. Pritsevõimekusega pudel sisaldamaks kloordioksiidi lahust, et vajadusel peale piserdada. Ostsin Amazonist 2 June 2024
+## Ravi
+
+1. Pritsevõimekusega pudel sisaldamaks kloordioksiidi lahust, et vajadusel peale piserdada. Ostsin Amazonist 2 June 2024
  ja maksin viie pudeli eest \num{18,65} ε
  (joonis \@ref(fig:resources-braunglasflaschen) leheküljel `r render_pageref(reference = "fig:resources-braunglasflaschen")`)[@a5].
 
@@ -87,7 +150,7 @@ include_external_graphics("rmd/braunglasflaschen.jpg")
 
 ```
 
-12. Pruunid säilituspudelid pipetiga, et kaasa võtta vesinikkloriidhape, naatriumklorit ja dimetüülsulfoksiid, mida vajadusel raviks kasutada. Ostsin Amazonist 2 June 2024
+2. Pruunid säilituspudelid pipetiga, et kaasa võtta vesinikkloriidhape, naatriumklorit ja dimetüülsulfoksiid, mida vajadusel raviks kasutada. Ostsin Amazonist 2 June 2024
  ja maksin nelja pudeli eest \num{7,16} ε
  (joonis \@ref(fig:resources-brown-storage-bottles) leheküljel `r render_pageref(reference = "fig:resources-brown-storage-bottles")`)[@pipette].
 
@@ -96,7 +159,18 @@ include_external_graphics("rmd/brown-storage-bottles.jpg")
 
 ```
 
-13. Ultraviolettlaadija, et akusid laadida looduses. Ostsin Amazonist 2 June 2024
+3. Dimetüülsulfoksiid, et võimendada kloordioksiidi imendumist nt maohammustuse puhul. Ostsin Amazonist 11 June 2024
+ ja maksin \qty{2,5e-3}{\cubic\m} eest \num{85,7} ε
+ (joonis \@ref(fig:resources-DMSO) leheküljel `r render_pageref(reference = "fig:resources-DMSO")`)[@a2024_dmso].
+
+```{r label = "resources-DMSO", echo=FALSE, fig.cap = "DMSO 99.9% Purity - 2500 ml"}
+include_external_graphics("rmd/dmso.jpg")
+
+```
+
+## Elekter
+
+1. Ultraviolettlaadija, et akusid laadida looduses. Ostsin Amazonist 2 June 2024
  ja maksin nelja pudeli eest \num{130,7} ε
  (joonis \@ref(fig:resources-bresser-solar) leheküljel `r render_pageref(reference = "fig:resources-bresser-solar")`)[@bresser].
 
@@ -104,3 +178,36 @@ include_external_graphics("rmd/brown-storage-bottles.jpg")
 include_external_graphics("rmd/bresser-solar.jpg")
 
 ```
+
+## Kinnitamine
+
+1. Karabiinid, et kinnitada joogipauna ja ultraviolettvalguse paneele. Ostsin Ebay'st 25. Jun 2017, 3:01
+ ja maksin kümne karabiini eest \num{8,45} ε.
+
+## Vesi
+
+1. Veefilter, et puhast vett saada joomiseks. Ostsin Ebay'st 25. Jun 2017, 3:19
+ ja maksin  \num{27,45} ε
+ (joonis \@ref(fig:resources-sawyer) leheküljel `r render_pageref(reference = "fig:resources-sawyer")`)[@sawyer].
+
+```{r label = "resources-sawyer", echo=FALSE, fig.cap = "Sawyer Care Plus Mini Wasserfilter (SP128)."}
+include_external_graphics("rmd/sawyer.jpg")
+
+```
+
+2. Veetester, et testida veepuhtust. Ostsin Ebay'st 25. Jun 2017, 3:19
+ ja maksin \num{7,85} ε.
+
+3. Joogipaun, et matkamise kestel või vahepeal puhast vett juua. Ostsin Ebay'st 25. Jun 2017, 3:19
+ ja maksin  \num{30,9} ε
+ (joonis \@ref(fig:resources-source) leheküljel `r render_pageref(reference = "fig:resources-source")`)[@source].
+
+```{r label = "resources-source", echo=FALSE, fig.cap = "SOURCE - WXP - Trinkblase Wasserblase Wassersack Trinksystem."}
+include_external_graphics("rmd/joogipaun.jpg")
+
+```
+
+## Kaitse
+
+1. Päikeseprillid, et vajadusel silmi kaitsta. Ostsin Ebay'st 25. Jun 2017, 3:19
+ ja maksin \num{19,49} ε.
