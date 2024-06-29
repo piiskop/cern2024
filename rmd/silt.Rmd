@@ -1,0 +1,25 @@
+\newpage
+
+\large
+
+These things here belong to me. Please do not change their location. I need these things during my hike, when I discover the world and create a story with life's physics problems as a physics teacher. This here is my temporary abode that I will return to before moving on to my next stop.
+
+---
+
+Ces choses ici m'appartiennent. Merci de ne pas modifier leur emplacement. J'ai besoin de ces choses pendant ma randonnée, lorsque je découvre le monde et crée une histoire avec les problèmes de physique de la vie en tant que professeur de physique. Voici ma demeure temporaire dans laquelle je reviendrai avant de passer à mon prochain arrêt.
+
+---
+
+Queste cose qui appartengono a me. Si prega di non modificare la loro posizione. Di queste cose ho bisogno durante le mie escursioni, quando scopro il mondo e come insegnante di fisica creo una storia con i problemi di fisica della vita. Questa qui è la mia dimora temporanea in cui tornerò prima di passare alla prossima tappa.
+
+\vspace{.1\textheight}
+
+\begin{flushright}
+peacecop kalmer:
+
++37256204556
+
+kalmer@ons.ee
+\end{flushright}
+
+\normalsize

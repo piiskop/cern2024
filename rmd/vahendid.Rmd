@@ -5,6 +5,13 @@
 1. Seljakott, et asju tassida. Ostsin Ebay'st 25. Jun 2017, 3:19
 ja maksin \num{359,9} ε.
 
+2. Pagasikaal, et kontrollida, kas ikka kõik lubatud piiresse jääb. Ostsin Amazonist 16 June 2024 ja maksin \num{10,24} ε (joonis \@ref(fig:resources-scale) leheküljel `r render_pageref(reference = "fig:resources-scale")`)[@a2024_rotopata]. Pakin seljakotti.
+
+```{r label = "resources-scale", echo=FALSE, fig.cap = "ROTOPATA Luggage Scales Digital Luggage Scales Portable Hanging Scales LCD Display with Backlight for Overweight, Tare Function Practical for Travel Max 110 lb/50 kg ."}
+include_external_graphics("rmd/scale.jpg")
+
+```
+
 ## Riietus
 
 1. Sandaalid, et saaks õhuliste jalanõudega lühikesi vahemaid kõndida ja ka vees käia, kus terav. Ostsin Amazonist 22 June 2017 ja maksin \num{69,9} ε (joonis \@ref(fig:resources-uneek) leheküljel `r render_pageref(reference = "fig:resources-uneek")`)[@keen]. Pakin seljakotti.
@@ -22,6 +29,20 @@ include_external_graphics("rmd/keen-uneek.jpg")
 
 4. Rätik, et nt vihmast end enne magamaminekut kuivatada või riideid kuivatada. Ostsin Ebay'st 25. Jun 2017, 3:19
  ja maksin viie paari eest \num{12,9} ε.
+ 
+5. Matkasaapad, et kõndida pikalt.
+
+6. Kaks paari aluspükse, et oleksid aluspüksid ka ujumiseks.
+
+7. Kaks varrukateta särki, et oleks ülakeha kaetud.
+
+8. Jope, et oleks kaitse vinge tuule ja vihma eest.
+
+9. Kõik meriinovillased sokid, et oleks, mida kanda jalgade otsas.
+
+10. Villane müts, et magada jahedas.
+
+11. Villane kampsun, et magada mõnusalt ja vajadusel madala temperatuuri eest kaitsta keha.
 
 ## Hügieen
 
@@ -33,11 +54,11 @@ include_external_graphics("rmd/scubba.jpg")
 
 ```
 
-2. Pesuvahend, et saaks nii ihu kui pesu pesta. Ostsin Amazonist 20 June 2017
- ja maksin \num{13,06} ε (joonis \@ref(fig:resources-summit) leheküljel `r render_pageref(reference = "fig:resources-summit")`)[@sea].
+2. Pesuvahend, et saaks nii ihu kui pesu pesta. Ostsin Amazonist 11 June 2024
+ ja maksin \num{11,96} ε (joonis \@ref(fig:resources-fibertec) leheküljel `r render_pageref(reference = "fig:resources-fibertec")`)[@a2024_fibertec].
 
-```{r label = "resources-summit", echo=FALSE, fig.cap = "Sea To Summit - Wilderness Wash Citronella 250 ml, Liquid Universal Soap."}
-include_external_graphics("rmd/sea-to-summit.jpg")
+```{r label = "resources-fibertec", echo=FALSE, fig.cap = "Fibertec Travel Soap Eco tragbare Mini Reiseseife, biologisch abbaubare Outdoor Seife, Geschirrspülmittel und Bekleidungswaschmittel 100ml."}
+include_external_graphics("rmd/fibertec.jpg")
 
 ```
 
@@ -54,6 +75,16 @@ include_external_graphics("rmd/guillermo.jpg")
 
 ```
 
+6. Hambapasta, et hambaid puhastada.
+
+7. Hambahari, et hambaid puhastada.
+
+8. Peegel, et näeks karvu lõigata.
+
+9. Kamm, et välimus teistele inimestele vastuvõetav oleks.
+
+10. Käärid, et peakarvu vajadusel lühendada.
+
 ## Maksevahendid
 
 1. Kaartide, kupüüride ja müntide laegas, et pabervaluuta, mündid, makse- ja muud vajalikud kaardid võimalikult kergesse mugavasse laekasse oleksid kaasa võetud ning et kiibiga kaart oleks kaitstud välise lugemise eest. Ostsin Amazonist 20 June 2017 ja maksin \num{8,95} ε (joonis \@ref(fig:resources-wallet) leheküljel `r render_pageref(reference = "fig:resources-wallet")`)[@scrubba-wallet].
@@ -63,17 +94,19 @@ include_external_graphics("rmd/scrubba-wallet.jpg")
 
 ```
 
+2. Sulavaluuta, et maksta, kui kaardiga maksta ei saa.
+
+3. Virtuaalkaart, et maksta peamise maksevahendina.
+
+4. Kehaline kaart, et maksta, kui virtuaalkaardiga maksta ei saa.
+
+5. Vöökott, kuhu ka osa maksevahendeid toppida.
+
+6. Vöö, kuhu osa sulavaluutat toppida.
+
 ## Valgustus
 
-1. Võimas lamp, et vajadusel pimedas tegutseda. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 24 February 2020 ja maksin \num{106,67} ε
- (joonis \@ref(fig:resources-litra) leheküljel `r render_pageref(reference = "fig:resources-litra")`)[@litra].
-
-```{r label = "resources-litra", echo=FALSE, fig.cap = "Litra Torch 2.0, LT2202, Black, LitraTorch 2."}
-include_external_graphics("rmd/litra.jpg")
-
-```
-
-2. Valgustavad pulgad, et pimedaid urkaid valgustada, kuhu ei pääse. Ostsin Ebay'st 25. Jun 2017, 3:55
+1. Valgustavad pulgad, et pimedaid urkaid valgustada, kuhu ei pääse. Ostsin Ebay'st 25. Jun 2017, 3:55
  ja maksin  £33,99
  (joonis \@ref(fig:resources-glowtopia) leheküljel `r render_pageref(reference = "fig:resources-glowtopia")`)[@a100x].
 
@@ -81,32 +114,6 @@ include_external_graphics("rmd/litra.jpg")
 include_external_graphics("rmd/glowtopia.jpg")
 
 ```
-
-## Side
-
-1. Arvuti, et virtuaalseid toiminguid teha. See on kergekaaluline masin. Ostsin Amazonist 28 November 2021
- ja maksin \num{77,9} ε, pluss saatekulu
- (joonis \@ref(fig:resources-pi) leheküljel `r render_pageref(reference = "fig:resources-pi")`)[@raspberry].
-
-```{r label = "resources-pi", echo=FALSE, fig.cap = "Raspberry Pi PI400 4GB German Red / White."}
-include_external_graphics("rmd/pi.jpg")
-
-```
-
-2. Müra summutavad kõrvaklapid, et vajadusel virtuaalseid konverentse teha. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 20 November 2022
- ja maksin \num{223,86} ε
- (joonis \@ref(fig:resources-sony) leheküljel `r render_pageref(reference = "fig:resources-sony")`)[@sony].
-
-```{r label = "resources-sony", echo=FALSE, fig.cap = "Sony WH-1000XM4 Wireless Bluetooth Noise Cancelling Headphones."}
-include_external_graphics("rmd/sony.jpg")
-
-```
-
-3. Graafikatahvel, et joonistada. Ostsin Ebay'st 30. Dez 2018, 18:46
- ja maksin  \num{54} ε[@xppen].
-
-4. Varutelefon juhuks, kui põhitelefoniga mingi jama juhtub, nt varastatakse. Ostsin Ebay'st 5. Jan 2019, 6:50
- ja maksin  \num{83,8} ε[@lg].
 
 ## Ööbimine
 
@@ -128,16 +135,21 @@ include_external_graphics("rmd/t-straps.jpg")
 
 ```
 
+3. Õhuke foolium, et peegeldada soojust.
+
+4. Paks fooliumiga kaetud tekk, et peegeldada soojust.
+
+5. Ripptelk, et selles ööbida.
+
+6. Tekk, et oleks soe ööbida.
+
+7. Alustekk, et oleks soe ööbida.
+
+8. Katus, et oleks kuiv ööbida.
+
 ## Jäädvustamine
 
-1. Veekindel kaamera, et vees ja üldse matka jäädvustada. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 2 June 2024
- ja maksin \num{320} ε
- (joonis \@ref(fig:resources-dji) leheküljel `r render_pageref(reference = "fig:resources-dji")`)[@dji].
-
-```{r label = "resources-dji", echo=FALSE, fig.cap = "DJI Osmo Action 4 Standard Combo - 4K/120fps Waterproof Action Camera with a 1/1.3\" Sensor, Stunning Low Light Shots, 10-Bit and D-Log M Colour Performance, Long Lasting 1770mAh Battery."}
-include_external_graphics("rmd/dji.jpg")
-
-```
+1. Statiiv, et kaamera kinnitada.
 
 ## Ravi
 
@@ -150,7 +162,7 @@ include_external_graphics("rmd/braunglasflaschen.jpg")
 
 ```
 
-2. Pruunid säilituspudelid pipetiga, et kaasa võtta vesinikkloriidhape, naatriumklorit ja dimetüülsulfoksiid, mida vajadusel raviks kasutada. Ostsin Amazonist 2 June 2024
+2. Pruunid säilituspudelid pipetiga: et kaasa võtta vesinikkloriidhape, naatriumklorit ja dimetüülsulfoksiid, mida vajadusel raviks kasutada. Ostsin Amazonist 2 June 2024
  ja maksin nelja pudeli eest \num{7,16} ε
  (joonis \@ref(fig:resources-brown-storage-bottles) leheküljel `r render_pageref(reference = "fig:resources-brown-storage-bottles")`)[@pipette].
 
@@ -168,10 +180,14 @@ include_external_graphics("rmd/dmso.jpg")
 
 ```
 
+4. Keha termomeeter, et otsaesiselt mõõta temperatuuri.
+
 ## Elekter
 
+### Laadimine
+
 1. Ultraviolettlaadija, et akusid laadida looduses. Ostsin Amazonist 2 June 2024
- ja maksin nelja pudeli eest \num{130,7} ε
+ ja maksin \num{130,7} ε
  (joonis \@ref(fig:resources-bresser-solar) leheküljel `r render_pageref(reference = "fig:resources-bresser-solar")`)[@bresser].
 
 ```{r label = "resources-bresser-solar", echo=FALSE, fig.cap = "Bresser Solar Charger 60 W with 1 x DC and 3 x USB-A Ports Including USB-A Socket with QC3.0 for Quick Charging, Solar Panel as Charger for Smartphones, Power Stations etc."}
@@ -179,10 +195,138 @@ include_external_graphics("rmd/bresser-solar.jpg")
 
 ```
 
+2. Kolm kiirlaadijat, et laadida.
+
+3. Kaks aeglast laadijat, et laadida.
+
+4. Kaks mõõturit, et mõõta laadimist.
+
+5. Suurendusega kaamera, et jäädvustada.
+
+6. Hiir, et arvutit kasutada.
+
+7. Universal-Serial-Bus(USB)-jaotur A-pistikust, et saaks [*Pi*](#pi)le rohkem USB-asju külge panna kui kolm. Ostsin Amazonist 17 June 2024 ja maksin \num{36,1} ε
+ (joonis \@ref(fig:resources-USB-A) leheküljel `r render_pageref(reference = "fig:resources-USB-A")`)[@a2024_startechcom].
+
+```{r label = "resources-USB-A", echo=FALSE, fig.cap = "StarTech.com 4 Port USB 3.0 Hub - SuperSpeed 5 Gbps USB 3.2 Gen 1 Type-A Splitter - USB Bus Powered - 28 cm USB Host Cable (HB30AM4AB) ."}
+include_external_graphics("rmd/usb-a.jpg")
+
+```
+
+8. Ekraan, et [*Pi*](#pi)st pilte näha. Ostsin 深圳市精测盛世科技有限公司'st 07/05/2022
+ ja maksin \num{234,53} ε
+ (joonis \@ref(fig:resources-uperfect) leheküljel `r render_pageref(reference = "fig:resources-uperfect")`)[@uproject].
+
+```{r label = "resources-uperfect", echo=FALSE, fig.cap = "UProject B9 - 15.6\" Small DVI VGA HDMI Multi-port Monitor Touch Display."}
+include_external_graphics("rmd/uperfect-small-computer-monitor-vga-dvi-touchscreen-156b09_3eed6718-ea45-41a1-b485-4fae2e5ffbbb_750x750.webp")
+
+```
+
+### Universal Serial Bus B
+
+1. Liikuv statiiv, et jäädvustada nii, et kaamera jälgiks. Ostsin Pivost  November 27, 2022 ning maksin pöördaluse, magnethoidiku, kruviga hoidiku ja nihikhoidiku eest kokku \num{172,47} ε (joonised \@ref(fig:resources-pivo-magnetic-mount) leheküljel `r render_pageref(reference = "fig:resources-pivo-magnetic-mount")`,  \@ref(fig:resources-pivo-action-mount) leheküljel `r render_pageref(reference = "fig:resources-pivo-action-mount")` ja  \@ref(fig:resources-pivo-smart-mount) leheküljel `r render_pageref(reference = "fig:resources-pivo-smart-mount")`)[@a2024].
+
+```{r label = "resources-pivo-magnetic-mount", echo=FALSE, fig.cap = "Magnetic Mount."}
+include_external_graphics("rmd/pivo-collection-imgMagMount.webp")
+
+```
+
+```{r label = "resources-pivo-smart-mount", echo=FALSE, fig.cap = "Smart Mount."}
+include_external_graphics("rmd/pivo-collection-imgweight-pivo-collection-img.webp")
+
+```
+
+```{r label = "resources-pivo-action-mount", echo=FALSE, fig.cap = "Action Mount."}
+include_external_graphics("rmd/pivo-collection-imgactionmount.webp")
+
+```
+
+
+2. Varutelefon juhuks, kui põhitelefoniga mingi jama juhtub, nt varastatakse. Ostsin Ebay'st 5. Jan 2019, 6:50
+ ja maksin  \num{83,8} ε[@lg].
+
+3. Võimas lamp, et vajadusel pimedas tegutseda. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 24 February 2020 ja maksin \num{106,67} ε
+ (joonis \@ref(fig:resources-litra) leheküljel `r render_pageref(reference = "fig:resources-litra")`)[@litra].
+
+```{r label = "resources-litra", echo=FALSE, fig.cap = "Litra Torch 2.0, LT2202, Black, LitraTorch 2."}
+include_external_graphics("rmd/litra.jpg")
+
+```
+
+4. Sõrmistik, et oleks mugav kirjutada.
+
+5. Neli Universal-Serial-Bus(USB)-kaablit, et laadida.
+
+### Universal Serial Bus C
+
+1. Veekindel kaamera, et vees ja üldse matka jäädvustada. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 2 June 2024
+ ja maksin \num{320} ε
+ (joonis \@ref(fig:resources-dji) leheküljel `r render_pageref(reference = "fig:resources-dji")`)[@dji].
+
+```{r label = "resources-dji", echo=FALSE, fig.cap = "DJI Osmo Action 4 Standard Combo - 4K/120fps Waterproof Action Camera with a 1/1.3\" Sensor, Stunning Low Light Shots, 10-Bit and D-Log M Colour Performance, Long Lasting 1770mAh Battery."}
+include_external_graphics("rmd/dji.jpg")
+
+```
+
+[]{#pi}
+
+2. Arvuti, et virtuaalseid toiminguid teha. See on kergekaaluline masin. Ostsin Amazonist 28 November 2021
+ ja maksin \num{77,9} ε, pluss saatekulu
+ (joonis \@ref(fig:resources-pi) leheküljel `r render_pageref(reference = "fig:resources-pi")`)[@raspberry].
+
+```{r label = "resources-pi", echo=FALSE, fig.cap = "Raspberry Pi PI400 4GB German Red / White."}
+include_external_graphics("rmd/pi.jpg")
+
+```
+
+3. Müra summutavad kõrvaklapid, et vajadusel virtuaalseid konverentse teha. Tuleb lennukisalongi kaasa võtta. Ostsin Amazonist 20 November 2022
+ ja maksin \num{223,86} ε
+ (joonis \@ref(fig:resources-sony) leheküljel `r render_pageref(reference = "fig:resources-sony")`)[@sony].
+
+```{r label = "resources-sony", echo=FALSE, fig.cap = "Sony WH-1000XM4 Wireless Bluetooth Noise Cancelling Headphones."}
+include_external_graphics("rmd/sony.jpg")
+
+```
+
+4. Graafikatahvel, et joonistada. Ostsin Ebay'st 30. Dez 2018, 18:46
+ ja maksin  \num{54} ε[@xppen].
+
+5. Mikrofon, et heli jäädvustada.
+
+6. Põhinutitelefon, et teha põhiasju.
+
+7. Maksimaalse mahutavusega, millega lennukisse lubatakse, akupank, et laadida. Tuleb lennukisalongi kaasa võtta. Ostsin Fauni Kaubanduse OÜ'st 08.06.2024
+ ja maksin \num{107,67} ε
+ (joonis \@ref(fig:resources-tellur) leheküljel `r render_pageref(reference = "fig:resources-tellur")`)[@tellur].
+
+```{r label = "resources-tellur", echo=FALSE, fig.cap = "Tellur Power Bank Ultra Pro PD903 27000mAh BLue."}
+include_external_graphics("rmd/tellur.jpeg")
+
+```
+
+8. Veel üks maksimaalse mahutavusega, millega lennukisse lubatakse, akupank, et laadida, sest lubatakse kuni kaks. Tuleb lennukisalongi kaasa võtta. Ostsin Antistast 6/13/2024
+ ja maksin \num{79,99} ε
+ (joonis \@ref(fig:resources-xtorm) leheküljel `r render_pageref(reference = "fig:resources-xtorm")`)[@xtorm].
+
+```{r label = "resources-xtorm", echo=FALSE, fig.cap = "Xtorm FS5, 67 W, 27000 mAh, black - Power bank ."}
+include_external_graphics("rmd/xtorm.png")
+
+```
+
+9. Kolm C-C-kaabilt, et laadida.
+
+10. Kolm A-C-kaablit, et laadida.
+
+11. C-harukarp, et saaks nutitelefonile identifikaatorkaardilugeja külge ühendada.
+
+12. Identifikaatorkaardilugeja, et saaks *DigiDoc 4*'ga digiallkirjastada[@digidoc4].
+
 ## Kinnitamine
 
 1. Karabiinid, et kinnitada joogipauna ja ultraviolettvalguse paneele. Ostsin Ebay'st 25. Jun 2017, 3:01
  ja maksin kümne karabiini eest \num{8,45} ε.
+
+2. Teip, et nt kaabliühendust kinnitada.
 
 ## Vesi
 
@@ -211,3 +355,15 @@ include_external_graphics("rmd/joogipaun.jpg")
 
 1. Päikeseprillid, et vajadusel silmi kaitsta. Ostsin Ebay'st 25. Jun 2017, 3:19
  ja maksin \num{19,49} ε.
+
+## Dokumendid
+
+1. Identifikaatorkaart, et orjapidajad saaksid kontrollida.
+
+2. Juhiluba, et saaks vajadusel autot juhtida.
+
+3. Kliendikaardid, et saaks soodustust.
+
+4. Lennupiletite koodid.
+
+5. Lamineeritud sildid omandi kohta.

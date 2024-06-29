@@ -4,5 +4,6 @@ delete_merged_file: true
 rmd_files: [
   "index.Rmd",
   "rmd/vahendid.Rmd",
+  "rmd/silt.Rmd",
   "references.Rmd"
 ]
